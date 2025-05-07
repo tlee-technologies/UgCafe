@@ -1,5 +1,4 @@
 // controllers/cartController.js
-//vs code save 
 const db = require('../models/db');
 
 // Add item to cart
