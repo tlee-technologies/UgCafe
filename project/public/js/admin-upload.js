@@ -1,3 +1,5 @@
+//public/js/admin-upload.js
+//
 document.getElementById('bulk-upload-form').addEventListener('submit', function (e) {
   e.preventDefault();
 

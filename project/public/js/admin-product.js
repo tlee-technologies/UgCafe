@@ -1,3 +1,4 @@
+//public/js/admin-product.js
 document.addEventListener('DOMContentLoaded', function() {
     console.log('Admin Products page loaded.');
 

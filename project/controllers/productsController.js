@@ -1,3 +1,4 @@
+// productsController.js
 const db = require('../models/db');
 
 // Get all products or filter by category
